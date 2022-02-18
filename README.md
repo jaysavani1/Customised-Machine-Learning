@@ -5,7 +5,7 @@ to get the basic idea of design, develope, implement and interpret the various D
 
 ## Project is under construction and files are uploading soon !!!
 
-### It includes :
+### It includes : (In Intial version)
 
 - Samples of Project structure
 - Samples python Scripts
